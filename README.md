@@ -2,6 +2,10 @@
 
 A premium bilingual (Arabic / English) restaurant website built with Next.js 16, TypeScript, Tailwind CSS 4, GSAP, Lenis, and Framer Motion.
 
+
+
+<img width="1856" height="887" alt="Screenshot 2026-11-21 233853" src="https://github.com/user-attachments/assets/3ab39b8c-069c-4536-bd4f-2f6600b9779f" />
+
 ## Quick Start
 
 ```bash
