@@ -4,7 +4,9 @@ A premium bilingual (Arabic / English) restaurant website built with Next.js 16,
 
 
 
-<img width="1856" height="887" alt="Screenshot 2026-11-21 233853" src="https://github.com/user-attachments/assets/3ab39b8c-069c-4536-bd4f-2f6600b9779f" />
+<img width="1890" height="892" alt="صورة" src="https://github.com/user-attachments/assets/9ea79564-9a57-4264-bf94-a9f5919bb1f2" />
+
+
 
 ## Quick Start
 
